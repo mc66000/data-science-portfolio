@@ -34,6 +34,7 @@ facilities, and whole-day availability?
 
 ![District accessibility coverage](https://raw.githubusercontent.com/<your-username>/data-science-project/main/figures/fig2_accessibility.png)
 
+
 **Findings:** Across 198 toilets, barrier-free coverage averages 65.2% but
 is uneven (Taipa 83.3% vs Coloane 59.4%). Parent-child facilities reach only
 11.6% citywide — the clearest service gap — and just 50.7% of toilets on the
