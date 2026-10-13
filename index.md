@@ -1,13 +1,14 @@
 ---
 
-## 二、作品集倉庫 `data-science-portfolio`
+## `data-science-portfolio`
 
-### 📄 `index.md`（放在根目錄）
+### 📄 `index.md`
 ```markdown
-# 【Your Full Name】
+
+#Katherine Ao
 
 **MSc student, University of Macau · Data Science**
-📧 【your email】 · 🐙 [GitHub](https://github.com/【your-username】) · 💼 [LinkedIn](【optional】)
+📧 【mc66000@um.edu.mo】 · 🐙 [GitHub](https://github.com/mc66000/data-science-portfolio) · 💼 [LinkedIn](www.linkedin.com/in/katherine-a-a9249483)
 
 ## About Me
 I am a graduate student at the University of Macau with an interest in
@@ -17,37 +18,31 @@ findings to non-technical audiences. This portfolio collects my data science
 projects, from exploratory analysis to predictive modelling.
 
 ## Technical Skills
-- **Languages:** Python, SQL, 【R / Java 等】
-- **Data & ML:** pandas, NumPy, scikit-learn, 【TensorFlow / PyTorch】
-- **Visualization:** matplotlib, seaborn, 【Plotly / Tableau / Power BI】
-- **Tools:** Git & GitHub, Jupyter, VS Code, 【Docker / Excel】
+- **Languages:** Python, SQL
+- **Data & ML:** pandas, NumPy, scikit-learn, 
+- **Visualization:** matplotlib, seaborn, Power BI
+- **Tools:** Git & GitHub, Jupyter, VS Code
 
 ---
 
-## Project Showcase
+# Project Showcase
 
-### 🐧 Palmer Penguins: Predicting Species from Body Measurements
-**Research question:** Can four body measurements reliably distinguish the
-three penguin species of the Palmer Archipelago?
+### Macau Public Toilets — Distribution & Accessibility Analysis
+**Research question:** How are Macau's public toilets distributed across its
+three districts, and where are the gaps in barrier-free access, parent-child
+facilities, and whole-day availability?
 
-![Flipper length vs body mass](https://raw.githubusercontent.com/【your-username】/data-science-project/main/figures/fig1_flipper_vs_mass.png)
+![District accessibility coverage](https://raw.githubusercontent.com/<your-username>/data-science-project/main/figures/fig2_accessibility.png)
 
-**What the chart shows:** Gentoo penguins (green) form a clearly separate
-cluster with longer flippers and heavier bodies, while Adelie and Chinstrap
-overlap in size and must be separated by bill length instead. A logistic
-regression model using just four measurements reached about 98% test accuracy.
-The main limitation is the small sample (333 birds from three islands), so the
-results may not generalise to other colonies.
+**Findings:** Across 198 toilets, barrier-free coverage averages 65.2% but
+is uneven (Taipa 83.3% vs Coloane 59.4%). Parent-child facilities reach only
+11.6% citywide — the clearest service gap — and just 50.7% of toilets on the
+tourist-heavy Macau Peninsula stay open all day. The analysis points to two
+concrete equity gaps: family facilities everywhere, and night-time access in
+the busiest district.
 
-- 🔗 **Repository:** <https://github.com/【your-username】/data-science-project>
+- 🔗 **Repository:** <https://github.com/mc66000/data-science-project>
 - 📌 **Status:** Completed
 
----
 
-### 【Second project (optional)】
-**Research question:** 【…】
-- 🔗 Repository: 【…】
-- 📌 Status: Ongoing
-
----
-*Last updated: October 2026 · Built with GitHub Pages*
+*Last updated: 14 October 2026 · Built with GitHub Pages*
